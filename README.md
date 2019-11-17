@@ -1,2 +1,0 @@
-# Ccource
-C course homeWork
